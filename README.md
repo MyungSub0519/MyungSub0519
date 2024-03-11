@@ -3,7 +3,7 @@
 - Back-End & Software Developer
 - My Career
     - Coocon Corp. ( Intern, 2024.03 ~ )
-    - Jente Corp. ( Intern, 2023.10 ~ 2023.11)
+    - Jente Corp. ( Intern, 2023.10 ~ 2023.11 )
 
 ## Tech Stack
 
