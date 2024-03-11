@@ -1,14 +1,4 @@
-## HELLO! 🌻
-
-- 👯 저는 현재 쿠콘에 재직 중인 신명섭입니다!
-- 📫 저는 백엔드에 관심이 있어요.
-- 🔭 고민하는 시간은 곧 성장하는 시간이라고 생각합니다!
-- 💬 IT 기술에 관한 대화를 좋아해요. 제 이메일을 남길게요! [![Email](https://img.shields.io/badge/Email-shinms0519@gmail.com-blue?style=flat-square&logo=gmail)](mailto:shinms0519@gmail.com)
-
-<details>
-<summary>
-  More Info
-</summary>
+## HELLO!
 
 ## Tech Stack
 
@@ -44,6 +34,4 @@
 [![Email](https://img.shields.io/badge/email-ED2939?logo=gmail&logoColor=white&style=for-the-badge)](mailto:shinms0519@gmail.com)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/console.count/)
-
-</details>
 
