@@ -27,3 +27,4 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/console.count/)
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%EB%AA%85%EC%84%AD-%EC%8B%A0-2b9375256)
