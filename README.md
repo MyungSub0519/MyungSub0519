@@ -14,13 +14,6 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
-### **Framework** 🛠️
-
-![Nest.js](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)
-[![express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)](https://expressjs.com)
-![flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
 ## Contact
 
 [![Email](https://img.shields.io/badge/email-ED2939?logo=gmail&logoColor=white&style=for-the-badge)](mailto:shinms0519@gmail.com)
